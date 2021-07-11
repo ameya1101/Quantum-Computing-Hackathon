@@ -11,5 +11,5 @@ Team Members:
 The repository contains 4 Jupyter notebooks:
 1. [SectionA_QC_Hackathon.ipynb](https://github.com/ameya1101/Quantum-Computing-Hackathon/blob/main/SectionA_QC_Hackathon.ipynb) contains the attempts for Section A - All Tasks
 2. [SectionB_QC_Hackathon.ipynb](https://github.com/ameya1101/Quantum-Computing-Hackathon/blob/main/SectionB_QC_Hackathon.ipynb) contains the attempts for Section B - All Tasks
-3. [SectionC_QC_Hackathon_Task_1](https://github.com/ameya1101/Quantum-Computing-Hackathon/blob/main/SectionC_QC_Hackathon_Task_1) contains the attempts for Section C - Task 1
-4. [Sectionc_QC_Hackathon_Task_2.ipynb](https://github.com/ameya1101/Quantum-Computing-Hackathon/blob/main/SectionB_QC_Hackathon.ipynb) contains the attempts for Section C - Task 2
+3. [SectionC_QC_Hackathon_Task_1.ipynb](https://github.com/ameya1101/Quantum-Computing-Hackathon/blob/main/SectionC_QC_Hackathon_Task_1.ipynb) contains the attempts for Section C - Task 1
+4. [SectionC_QC_Hackathon_Task_2.ipynb](https://github.com/ameya1101/Quantum-Computing-Hackathon/blob/main/SectionC_QC_Hackathon_Task_2.ipynb) contains the attempts for Section C - Task 2
